@@ -8,6 +8,7 @@
 3. instale os pacotes: pip install requeriments.txt
 4. execute o comando python3 manage.py runserver
 5. links de acesso:
+   
    http://127.0.0.1:8000/auth/login/
    
    http://127.0.0.1:8000/auth/cadastro/
