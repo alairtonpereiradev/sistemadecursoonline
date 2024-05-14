@@ -15,4 +15,5 @@
    
    http://127.0.0.1:8000/cursos/home/  
 
+![Cursos](https://github.com/alairtonpereiradev/sistemadecursoonline/assets/79541163/5b10b87f-ab75-437d-9909-bbb6a80bba60)
 
