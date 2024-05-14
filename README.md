@@ -1,6 +1,6 @@
 # sistema curso online
 
-# Para executar o projeto deve ter instalado o python e o django na sua ultimas versões.
+# Para executar o projeto deve ter instalado o python e o django na suas ultimas versões.
 
 
 1. crie o ambiente virtual usando o comando: python3 -m venv venv
